@@ -49,6 +49,9 @@ echo "VITE_REPLICATE_API_TOKEN=sk-replicate-xxxxxxxxxxxxxxxxx" > .env.local
 ### 4 . Jalankan Lokal
 npm run dev
 
+## Try
+https://text-adventure1.vercel.app/
+
 🤖 AI Support Explanation
 Endpoint
 Semua request ke:
